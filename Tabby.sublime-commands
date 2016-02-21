@@ -1,0 +1,10 @@
+[
+    { "caption": "Tabby: Save Group",           "command": "tabby_save" },
+    { "caption": "Tabby: Load Group",           "command": "tabby_load" },
+    { "caption": "Tabby: Rename Group",         "command": "tabby_rename" },
+    { "caption": "Tabby: Remove Group",         "command": "tabby_remove" },
+    { "caption": "Tabby: Switch Group",         "command": "tabby_switch" },
+    { "caption": "Tabby: Close Tabs (All)",     "command": "tabby_close_tab_all" },
+    { "caption": "Tabby: Close Tabs (Other)",   "command": "tabby_close_tab_other" },
+    { "caption": "Tabby: Close Tabs (Current)", "command": "tabby_close_tab_current" }
+]
